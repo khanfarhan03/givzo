@@ -141,8 +141,3 @@ Repository: [khanfarhan03/givzo](https://github.com/khanfarhan03/givzo)
 Maintainer: khanfarhan03
 
 ---
-
-If you'd like, I can:
-- open a PR replacing the existing README.md with this draft,
-- or generate a `.env.example` file with the env keys I inferred,
-- or scan the repo for exact environment variable names and include them in the README. Which would you prefer next?Hammering....
